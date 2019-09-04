@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"exemplo.repos","c":"LivroRepository","l":"findByAutor(String)","url":"findByAutor(java.lang.String)"},{"p":"exemplo.repos","c":"LivroRepository","l":"findByIsbn(String)","url":"findByIsbn(java.lang.String)"},{"p":"exemplo.repos","c":"LivroRepository","l":"findByTitulo(String)","url":"findByTitulo(java.lang.String)"}]
